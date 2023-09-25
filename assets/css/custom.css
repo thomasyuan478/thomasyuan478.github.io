@@ -1,0 +1,10 @@
+.custom{
+  transform: rotate(-45deg);
+  font-size: 4em;
+  display: inline-block;
+  line-height: inherit;
+}
+
+/* .image-fix{
+  margin-bottom: 95px;
+} */
